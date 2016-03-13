@@ -1,0 +1,1 @@
+g++ -o curv Curve.cpp Zcurve.cpp Ccurve.cpp Hcurve.cpp ../Query/Query.cpp

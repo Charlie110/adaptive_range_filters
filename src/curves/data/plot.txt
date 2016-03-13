@@ -1,0 +1,4 @@
+set term png
+set output "queries.png"
+plot "anti100.txt" using 1:2,\
+"corr100.txt" using 1:2
